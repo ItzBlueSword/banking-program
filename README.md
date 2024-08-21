@@ -18,11 +18,11 @@ A simple banking application designed to manage customer accounts and handle bas
    git clone https://github.com/yourusername/banking-program.git
    cd banking-program
 
-******Usage******
+## Usage
 
 After starting the application, follow the on-screen prompts to perform actions such as checking balances, making deposits, or withdrawing funds.
 
-****Example****
+### **Example**
 
 **Showing Balance:**
 
@@ -35,6 +35,6 @@ Enter the account number and the amount to withdraw.
 **Making a Deposit:**
 Enter the account number and the amount to deposit.
 
-******License******
+## **License**
 
 This project is licensed under the MIT License. See the LICENSE file for details.
