@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-A simple banking application designed to manage customer accounts and handle basic financial transactions. This project is built with [Your Programming Language/Framework] and is intended for [Purpose/Target Audience].
+A simple banking application designed to manage customer accounts and handle basic financial transactions. This project is built with Python and is intended for someone interested in this cool thing.
 
 ## Features
 
