@@ -19,17 +19,22 @@ A simple banking application designed to manage customer accounts and handle bas
    cd banking-program
 
 ******Usage******
+
 After starting the application, follow the on-screen prompts to perform actions such as checking balances, making deposits, or withdrawing funds.
 
 ****Example****
+
 **Showing Balance:**
+
 Enter your account number to view the balance.
 
 **Making a Withdrawal:**
+
 Enter the account number and the amount to withdraw.
 
 **Making a Deposit:**
 Enter the account number and the amount to deposit.
 
 ******License******
+
 This project is licensed under the MIT License. See the LICENSE file for details.
